@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245898553670",
+    "project_id": "dev-access-461423-t8",
+    "storage_bucket": "dev-access-461423-t8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245898553670:android:56dd13e1e0071ee4025d47",
+        "android_client_info": {
+          "package_name": "Com.Erp.alizay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245898553670-tuo4j03t1kster9egjec59s54jev61o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtTr2hHuwZTQE1kkTGzQcGu3k-tFNVGI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245898553670-tuo4j03t1kster9egjec59s54jev61o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
